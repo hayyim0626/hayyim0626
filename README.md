@@ -9,10 +9,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h19960626@gmail.com)](mailto:h19960626@gmail.com)
 
-![hayyim0626's github stats](https://github-readme-stats.vercel.app/api?username=hayyim0626&show_icons=true)
 
 <p>
-  <img height="120" weight="300" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hayyim0626&hide_title=true&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=algolia">
+  <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hayyim0626&hide_title=true&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=algolia">
   <img height="120" align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayyim0626&hide_title=true&hide=html,css&layout=compact&theme=algolia">
 </p>
 
