@@ -1,4 +1,4 @@
-# Hello world!🌏 It's me🙋‍♂!
+# Hello world!🌏 It's me!🙋‍♂
 
 👨‍💻 I'm a **frontend engineer**<br>
 👨‍🏫 Now I'm learning **React, React Native, AWS**
