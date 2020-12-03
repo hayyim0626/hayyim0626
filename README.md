@@ -1,7 +1,7 @@
 # Hello world!🌏 It's me!🙋‍♂
 
 👨‍💻 I'm a **frontend engineer**<br>
-👨‍🏫 Now I'm learning **React, React Native, AWS**
+👨‍🏫 Now I'm learning **React, TypeScript, Core JavaScript**
 
 
   
