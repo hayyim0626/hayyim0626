@@ -8,7 +8,7 @@
 또한 그 여정에서 함께하는 사람들과의 “공감”과 “연대”를 통해 함께함의 가치를 그 무엇보다 귀중하게 여기고 있습니다.<br> 
 보다 좋은 기술과 건강한 철학으로 사람과 사람을 잇는 프론트엔드 개발자로 성장하기 위해, 주어진 오늘에 최선을 다합니다.<br>
 ****
-### 🛠**Skills**
+### 🛠 **Skills**
 ![Generic badge](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoWidth=20)
 ![Generic badge](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=JavaScript&logoWidth=20)
 ![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux&logoWidth=20&labelColor=764ABC)
@@ -24,11 +24,11 @@
 [![Generic badge](https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=notion&labelColor=black&logoWidth=10)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
 [![Generic Badge](http://img.shields.io/badge/-Blog-white?style=for-the-badge&logo=bloglovin&logoWidth=10&labelColor=20c997&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
 ****
-### ☎**Contact**<br>
+### ☎ **Contact**<br>
 
 [![Generic badge](https://img.shields.io/badge/-GMAIL-white?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=10)](mailto:h19960626@gmail.com) 
 ****
-### 🤘**My Github Info**<br>
+### 🤘 **My Github Info**<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyim0626&layout=compact&theme=buefy&hide_border=true)  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayyim0626&theme=buefy&show_icons=true&hide_title=true&hide=issues&hide_border=true) 
 ****
