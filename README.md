@@ -31,11 +31,11 @@
 
 [![Generic badge](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=about.me&logoWidth=40)](https://github.com/hayyim0626/hayyim0626/files/5833509/RESUME.pdf)<br>
 [![Generic badge](https://img.shields.io/badge/-Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black&logoWidth=40)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)<br>
-[![Generic Badge](http://img.shields.io/badge/-Blog-FFFFFF?style=for-the-badge&logo=bloglovin&logoWidth=40&logoColor=20c997&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
+[![Generic Badge](http://img.shields.io/badge/-Blog-FFFFFF?style=for-the-badge&logo=bloglovin&logoWidth=40&logoColor=d14836&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
 ****
 ### ☎ **Contact**<br>
 
-[![Generic badge](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=40)](mailto:h19960626@gmail.com) 
+[![Generic badge](https://img.shields.io/badge/-gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40)](mailto:h19960626@gmail.com) 
 ****
 ### 🤘 **My Github Info**<br>
 
