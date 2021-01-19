@@ -9,7 +9,7 @@
 보다 좋은 기술과 건강한 철학으로 사람과 사람을 잇는 프론트엔드 개발자로 성장하기 위해, 주어진 오늘에 최선을 다합니다.<br>
 ****
 ### 🛠**Skills**
-![Generic badge](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&)
+![Generic badge](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react)
 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 ****
 
