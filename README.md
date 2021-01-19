@@ -9,18 +9,22 @@
 보다 좋은 기술과 건강한 철학으로 사람과 사람을 잇는 프론트엔드 개발자로 성장하기 위해, 주어진 오늘에 최선을 다합니다.<br>
 
 ## 🛠 **Skills**
-![Generic badge](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=react&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-FFFFFF?style=flat-square&logo=JavaScript&logoWidth=40)
+![Generic badge](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=react&logoWidth=40)
+![Generic badge](https://img.shields.io/badge/-ReactRouter-FFFFFF?style=flat-square&logo=React-Router&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-Redux-FFFFFF?style=flat-square&logo=Redux&logoWidth=40&logoColor=764ABC)
 ![Generic badge](https://img.shields.io/badge/-Sass/Scss-FFFFFF?style=flat-square&logo=sass&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=styled-components&logoWidth=40&logoColor=DB7093)
 ![Generic badge](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=Git&logoWidth=40&logoColor=F05032)
 ![Generic badge](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=GitHub&logoWidth=40&logoColor=181717)
 
-## 📚 **Trying to learn && Planning to learn**
+## 📚 **Planning to learn && Want to learn**
 ![Generic badge](https://img.shields.io/badge/-typescript-FFFFFF?style=flat-square&logo=TypeScript&logoWidth=40&logoColor=3178C6)
 ![Generic badge](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat-square&logo=Node.js&logoWidth=40&logoColor=339933)
 ![Generic badge](https://img.shields.io/badge/-AmazonAWS-FFFFFF?style=flat-square&logo=Amazon-AWS&logoWidth=40&logoColor=232f3e)
+![Generic badge](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=Docker&logoWidth=40&logoColor=2496ed)
+![Generic badge](https://img.shields.io/badge/-Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoWidth=40&logoColor=2496ed)
+
 
 ## 👨‍🏫 **Portfolio**<br>
 [![Generic badge](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=about.me&logoWidth=40)](https://github.com/hayyim0626/hayyim0626/files/5833509/RESUME.pdf)<br>
