@@ -21,7 +21,7 @@
 ****
 ### ☎**Contact**<br>
 
-[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=10)](mailto:h19960626@gmail.com) 
+[![Generic badge](https://img.shields.io/badge/-GMAIL-white?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=10)](mailto:h19960626@gmail.com) 
 ****
 ### 🤘**My Github Info**<br>
 
