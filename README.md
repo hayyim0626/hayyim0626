@@ -10,7 +10,7 @@
 ****
 
 ### 🛠 **Skills**
-![Generic badge](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=react&logoWidth=20)
+![Generic badge](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=react&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-white?style=for-the-badge&logo=JavaScript&logoWidth=20)
 ![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux&logoWidth=20&logoColor=764ABC)
 ![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass&logoWidth=20)
