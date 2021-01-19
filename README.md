@@ -6,7 +6,7 @@
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=githubsponsors&labelColor=white)](https://velog.io/@hayyim0626) 
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:h19960626@gmail.com) 
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=notion&labelColor=black)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69) 
-[![Generic Badge](http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
+[![Generic Badge](http://img.shields.io/badge/-V-20c997?style=for-the-badge&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
   
 
