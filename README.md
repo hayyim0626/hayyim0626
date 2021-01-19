@@ -11,7 +11,7 @@
 ### 🛠**Skills**
 ![Generic badge](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)
 ![Generic badge](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=JavaScript)
-![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux)
+![Generic badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux)
 ![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass)
 ![Generic badge](https://img.shields.io/badge/-styled-components-white?style=for-the-badge&logo=styled-components)
 
