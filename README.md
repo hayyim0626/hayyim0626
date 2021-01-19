@@ -15,10 +15,7 @@
 ![Generic badge](https://img.shields.io/badge/-Redux-FFFFFF?style=flat-square&logo=Redux&logoWidth=40&logoColor=764ABC)
 ![Generic badge](https://img.shields.io/badge/-Sass/Scss-FFFFFF?style=flat-square&logo=sass&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=styled-components&logoWidth=40&logoColor=DB7093)
-![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=styled.components&logoWidth=40&logoColor=DB7093)
-![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=styledComponents&logoWidth=40&logoColor=DB7093)
-![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=Styled-Components&logoWidth=40&logoColor=DB7093)
-![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=StyledComponents&logoWidth=40&logoColor=DB7093)
+
 
 ****
 
