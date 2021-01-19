@@ -17,11 +17,11 @@
 ![Generic badge](https://img.shields.io/badge/-Styledcomponents-white?style=for-the-badge&?logo=styled-components&logoWidth=20&logoColor=DB7093)
 ****
 
-### 🛠 **Trying to learn && Planning to learn**
+### 📚 **Trying to learn && Planning to learn**
 ![Generic badge](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=TypeScript&logoWidth=20&logoColor=3178C6)
 ****
 
-### 👨‍🏫 **Personal Portfolio**<br>
+### 👨‍🏫 **Portfolio**<br>
 
 [![Generic badge](https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=about.me&logoWidth=20)](https://github.com/hayyim0626/hayyim0626/files/5833509/RESUME.pdf)
 [![Generic badge](https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=notion&logoColor=black&logoWidth=20)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
