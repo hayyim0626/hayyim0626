@@ -10,6 +10,10 @@
 ****
 ### 🛠**Skills**
 ![Generic badge](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)
+![Generic badge](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=JavaScript)
+![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=redux)
+![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass)
+
 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 ****
 
