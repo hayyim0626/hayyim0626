@@ -3,7 +3,7 @@
 👨‍💻 **안녕하세요! 프론트엔드 개발자 홍예찬입니다.**<br>
 👨‍🏫 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 
-[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=githubsponsors&labelColor=white)](https://velog.io/@hayyim0626) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:h19960626@gmail.com) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=notion&labelColor=white)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69) 
+[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=githubsponsors&labelColor=white)](https://velog.io/@hayyim0626) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:h19960626@gmail.com) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=notion&labelColor=white)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
   
 
 - [Notion Portfolio](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
