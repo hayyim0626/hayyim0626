@@ -3,7 +3,7 @@
 👨‍💻 I'm a **frontend engineer**<br>
 👨‍🏫 Now I'm learning **React, TypeScript, Core JavaScript**
 
-[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=About.me&labelColor=white)](https://velog.io/@hayyim0626) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:h19960626@gmail.com?Subject=Hello%20world!) 
+[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=githubsponsors&labelColor=white)](https://velog.io/@hayyim0626) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:h19960626@gmail.com?Subject=Hello%20world!) 
   
 
 - [Notion Portfolio](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
