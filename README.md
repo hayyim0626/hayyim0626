@@ -1,7 +1,7 @@
 # Hello world!🌏 It's me!🙋‍♂
 
 👨‍💻 **안녕하세요! 프론트엔드 개발자 홍예찬입니다.**<br>
-👨‍🏫 **React(Class Components, Functional Components), TypeScript, avaScript, Redux**
+👨‍🏫 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=githubsponsors&labelColor=white)](https://velog.io/@hayyim0626) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:h19960626@gmail.com?Subject=Hello%20world!) 
   
