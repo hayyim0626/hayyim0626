@@ -9,8 +9,7 @@
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=notion&labelColor=black&logoWidth=10)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
 [![Generic Badge](http://img.shields.io/badge/-V-20c997?style=for-the-badge&labelColor=20c997&logoWidth=10&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
 [![Generic Badge](http://img.shields.io/badge/-V-20c997?style=for-the-badge&labelColor=#20c997&logoWidth=10&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
-[![Generic Badge](http://img.shields.io/badge/-white?style=for-the-badge&labelColor=#20c997&logoWidth=10&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
-[![Generic Badge](http://img.shields.io/badge/-white?style=for-the-badge&labelColor=20c997&logoWidth=10&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
+
 
 
 
