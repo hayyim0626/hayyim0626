@@ -27,13 +27,13 @@
 
 ### 👨‍🏫 **Portfolio**<br>
 
-[![Generic badge](https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=about.me&logoWidth=20)](https://github.com/hayyim0626/hayyim0626/files/5833509/RESUME.pdf)
-[![Generic badge](https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=notion&logoColor=black&logoWidth=20)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
-[![Generic Badge](http://img.shields.io/badge/-Blog-white?style=for-the-badge&logo=bloglovin&logoWidth=20&logoColor=20c997&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
+[![Generic badge](https://img.shields.io/badge/-Resume-FFFFFF?style=flat-square&logo=about.me&logoWidth=40)](https://github.com/hayyim0626/hayyim0626/files/5833509/RESUME.pdf)
+[![Generic badge](https://img.shields.io/badge/-Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black&logoWidth=40)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
+[![Generic Badge](http://img.shields.io/badge/-Blog-FFFFFF?style=flat-square&logo=bloglovin&logoWidth=40&logoColor=20c997&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
 ****
 ### ☎ **Contact**<br>
 
-[![Generic badge](https://img.shields.io/badge/-GMAIL-white?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=10)](mailto:h19960626@gmail.com) 
+[![Generic badge](https://img.shields.io/badge/-GMAIL-FFFFFF?style=flat-square&logo=gmail&labelColor=white&logoWidth=40)](mailto:h19960626@gmail.com) 
 ****
 ### 🤘 **My Github Info**<br>
 
