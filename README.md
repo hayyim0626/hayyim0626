@@ -19,13 +19,7 @@
 ### **Contact**<br>
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=10)](mailto:h19960626@gmail.com) 
 
-
-
-
-  
-
-- [Resume](https://github.com/hayyim0626/hayyim0626/files/5833509/RESUME.pdf)
-
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyim0626&layout=compact&theme=buefy&hide_border=true)  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayyim0626&theme=buefy&show_icons=true&hide_title=true&hide=issues&hide_border=true) 
 
 
