@@ -9,11 +9,11 @@
 보다 좋은 기술과 건강한 철학으로 사람과 사람을 잇는 프론트엔드 개발자로 성장하기 위해, 주어진 오늘에 최선을 다합니다.<br>
 ****
 ### 🛠**Skills**
-![Generic badge](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)
-![Generic badge](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=JavaScript)
-![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux&labelColor=764ABC)
-![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass)
-![Generic badge](https://img.shields.io/badge/-styled-components-white?style=for-the-badge&logo=styled-components)
+![Generic badge](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoWidth=10)
+![Generic badge](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=JavaScript&logoWidth=10)
+![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux&logoWidth=10&labelColor=764ABC)
+![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass&logoWidth=10)
+![Generic badge](https://img.shields.io/badge/-styled-components-white?style=for-the-badge&logo=styled-components&logoWidth=10)
 
 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 ****
