@@ -10,7 +10,7 @@
 ****
 
 ### 🛠 **Skills**
-![Generic badge](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoWidth=20)
+![Generic badge](https://img.shields.io/badge/-react-white?style=flat-spuare&logo=react&logoWidth=20)
 ![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-white?style=for-the-badge&logo=JavaScript&logoWidth=20)
 ![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux&logoWidth=20&logoColor=764ABC)
 ![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass&logoWidth=20)
@@ -19,6 +19,10 @@
 
 ### 📚 **Trying to learn && Planning to learn**
 ![Generic badge](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=TypeScript&logoWidth=20&logoColor=3178C6)
+![Generic badge](https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=Node.js&logoWidth=20&logoColor=339933)
+![Generic badge](https://img.shields.io/badge/-AmazonAWS-white?style=for-the-badge&logo=Node.js&logoWidth=20&logoColor=232f3e)
+
+
 ****
 
 ### 👨‍🏫 **Portfolio**<br>
