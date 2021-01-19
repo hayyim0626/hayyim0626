@@ -19,12 +19,8 @@
 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 ****
 
-### 🛠 **Trying to learn && Want**
-![Generic badge](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoWidth=20)
-![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-white?style=for-the-badge&logo=JavaScript&logoWidth=20)
-![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux&logoWidth=20&logoColor=764ABC)
-![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass&logoWidth=20)
-![Generic badge](https://img.shields.io/badge/-Styledcomponents-white?style=for-the-badge&?logo=styled-components&logoWidth=20&labelColor=764ABC)
+### 🛠 **Trying to learn && Planning to learn**
+![Generic badge](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=TypeScript&logoWidth=20&logoColor=3178C6)
 
 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 ****
