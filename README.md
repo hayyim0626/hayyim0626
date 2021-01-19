@@ -13,7 +13,7 @@
 ![Generic badge](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=JavaScript&logoWidth=20)
 ![Generic badge](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=Redux&logoWidth=20&labelColor=764ABC)
 ![Generic badge](https://img.shields.io/badge/-Sass/Scss-white?style=for-the-badge&logo=sass&logoWidth=20)
-![Generic badge](https://img.shields.io/badge/-styled-components-white?style=for-the-badge&?logo=styled-components&logoWidth=20)
+![Generic badge](https://img.shields.io/badge/-Styledcomponents-white?style=for-the-badge&?logo=styled-components&logoWidth=20)
 
 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 ****
