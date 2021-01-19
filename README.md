@@ -7,14 +7,16 @@
 또한 그 여정에서 함께하는 사람들과의 “공감”과 “연대”를 통해 함께함의 가치를 그 무엇보다 귀중하게 여기고 있습니다.<br> 
 보다 좋은 기술과 건강한 철학으로 사람과 사람을 잇는 프론트엔드 개발자로 성장하기 위해, 주어진 오늘에 최선을 다합니다.<br>
 
-### 👨‍🏫 **React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
+### 👨‍🏫 **Skills**
+**React(Class Components, Functional Components), TypeScript, avaScript, Redux, sass, styled-components**
 
 
 ### 👨‍🏫 **Personal Portfolio**<br>
-[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=10)](mailto:h19960626@gmail.com) 
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=notion&labelColor=black&logoWidth=10)](https://www.notion.so/b7ca3180716d48cd9f0169a9dc323c69)
 [![Generic Badge](http://img.shields.io/badge/-V-20c997?style=for-the-badge&labelColor=20c997&logoWidth=10&link=https://velog.io/@hayyim0626)](https://velog.io/@hayyim0626)
 
+### **Contact**<br>
+[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white&logoWidth=10)](mailto:h19960626@gmail.com) 
 
 
 
