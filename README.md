@@ -12,7 +12,7 @@
 
 <b>(주)디에이그라운드(2021.2~)</b><br><br>
 
-<b>(주)얼리슬로스(2020.10~2020.11)</b>
+<b>(주)얼리슬로스(2020.10~2020.11)<</b>
 
 ## 🛠 **Skills**
 ![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-FFFFFF?style=flat-square&logo=JavaScript&logoWidth=40)
