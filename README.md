@@ -17,6 +17,7 @@
 ![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=styled-components&logoWidth=40&logoColor=DB7093)
 ![Generic badge](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=Git&logoWidth=40&logoColor=F05032)
 ![Generic badge](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=GitHub&logoWidth=40&logoColor=181717)
+![Generic badge](https://img.shields.io/badge/-Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoWidth=40&logoColor=2496ed)
 
 ## 📚 **Planning to learn && Want to learn**
 ![Generic badge](https://img.shields.io/badge/-typescript-FFFFFF?style=flat-square&logo=TypeScript&logoWidth=40&logoColor=3178C6)
@@ -26,7 +27,6 @@
 ![Generic badge](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat-square&logo=Node.js&logoWidth=40&logoColor=339933)
 ![Generic badge](https://img.shields.io/badge/-AmazonAWS-FFFFFF?style=flat-square&logo=Amazon-AWS&logoWidth=40&logoColor=232f3e)
 ![Generic badge](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=Docker&logoWidth=40&logoColor=2496ed)
-![Generic badge](https://img.shields.io/badge/-Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoWidth=40&logoColor=2496ed)
 ![Generic badge](https://img.shields.io/badge/-React_Native-FFFFFF?style=flat-square&logo=react&logoWidth=40)
 
 
