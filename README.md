@@ -11,13 +11,13 @@
 ## 🛠 **Skills**
 ![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-FFFFFF?style=flat-square&logo=JavaScript&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=react&logoWidth=40)
-![Generic badge](https://img.shields.io/badge/-ReactRouter-FFFFFF?style=flat-square&logo=React-Router&logoWidth=40)
+![Generic badge](https://img.shields.io/badge/-Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoWidth=40&logoColor=2496ed)
+![Generic badge](https://img.shields.io/badge/-React_Router-FFFFFF?style=flat-square&logo=React-Router&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-Redux-FFFFFF?style=flat-square&logo=Redux&logoWidth=40&logoColor=764ABC)
 ![Generic badge](https://img.shields.io/badge/-Sass/Scss-FFFFFF?style=flat-square&logo=sass&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=styled-components&logoWidth=40&logoColor=DB7093)
 ![Generic badge](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=Git&logoWidth=40&logoColor=F05032)
 ![Generic badge](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=GitHub&logoWidth=40&logoColor=181717)
-![Generic badge](https://img.shields.io/badge/-Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoWidth=40&logoColor=2496ed)
 
 ## 📚 **Planning to learn && Want to learn**
 ![Generic badge](https://img.shields.io/badge/-typescript-FFFFFF?style=flat-square&logo=TypeScript&logoWidth=40&logoColor=3178C6)
