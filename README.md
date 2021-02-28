@@ -27,6 +27,7 @@
 ![Generic badge](https://img.shields.io/badge/-AmazonAWS-FFFFFF?style=flat-square&logo=Amazon-AWS&logoWidth=40&logoColor=232f3e)
 ![Generic badge](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=Docker&logoWidth=40&logoColor=2496ed)
 ![Generic badge](https://img.shields.io/badge/-Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoWidth=40&logoColor=2496ed)
+![Generic badge](https://img.shields.io/badge/-ReactNative-FFFFFF?style=flat-square&logo=react&logoWidth=40)
 
 
 ## 👨‍🏫 **Portfolio**<br>
