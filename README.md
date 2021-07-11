@@ -12,7 +12,7 @@
 
 <b>(주)디에이그라운드(2021.2~)</b><br><br>
 
-<b>(주)얼리슬로스(2020.10~2020.11)<</b>
+<b>(주)얼리슬로스(2020.10~2020.11)</b>
 
 ## 🛠 **Skills**
 ![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-FFFFFF?style=flat-square&logo=JavaScript&logoWidth=40)
@@ -24,9 +24,9 @@
 ![Generic badge](https://img.shields.io/badge/-StyledComponents-FFFFFF?style=flat-square&logo=styled-components&logoWidth=40&logoColor=DB7093)
 ![Generic badge](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=Git&logoWidth=40&logoColor=F05032)
 ![Generic badge](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=GitHub&logoWidth=40&logoColor=181717)
+![Generic badge](https://img.shields.io/badge/-typescript-FFFFFF?style=flat-square&logo=TypeScript&logoWidth=40&logoColor=3178C6)
 
 ## 📚 **Planning to learn && Want to learn**
-![Generic badge](https://img.shields.io/badge/-typescript-FFFFFF?style=flat-square&logo=TypeScript&logoWidth=40&logoColor=3178C6)
 ![Generic badge](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat-square&logo=Next.js&logoWidth=40&logoColor=000000)
 ![Generic badge](https://img.shields.io/badge/-Babel-FFFFFF?style=flat-square&logo=Babel&logoWidth=40&logoColor=f9dc3e)
 ![Generic badge](https://img.shields.io/badge/-Webpack-FFFFFF?style=flat-square&logo=Next.js&logoWidth=40&logoColor=8dd6f9)
