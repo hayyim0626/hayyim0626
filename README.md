@@ -12,8 +12,6 @@
 
 <b>(주)디에이그라운드(2021.2~)</b><br><br>
 
-<b>(주)얼리슬로스(2020.10~2020.11)</b>
-
 ## 🛠 **Skills**
 ![Generic badge](https://img.shields.io/badge/-Javascript(ES6+)-FFFFFF?style=flat-square&logo=JavaScript&logoWidth=40)
 ![Generic badge](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=react&logoWidth=40)
@@ -25,15 +23,15 @@
 ![Generic badge](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=Git&logoWidth=40&logoColor=F05032)
 ![Generic badge](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=GitHub&logoWidth=40&logoColor=181717)
 ![Generic badge](https://img.shields.io/badge/-typescript-FFFFFF?style=flat-square&logo=TypeScript&logoWidth=40&logoColor=3178C6)
+![Generic badge](https://img.shields.io/badge/-React_Native-FFFFFF?style=flat-square&logo=react&logoWidth=40)
+![Generic badge](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat-square&logo=Next.js&logoWidth=40&logoColor=000000)
 
 ## 📚 **Planning to learn && Want to learn**
-![Generic badge](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat-square&logo=Next.js&logoWidth=40&logoColor=000000)
 ![Generic badge](https://img.shields.io/badge/-Babel-FFFFFF?style=flat-square&logo=Babel&logoWidth=40&logoColor=f9dc3e)
 ![Generic badge](https://img.shields.io/badge/-Webpack-FFFFFF?style=flat-square&logo=Next.js&logoWidth=40&logoColor=8dd6f9)
 ![Generic badge](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat-square&logo=Node.js&logoWidth=40&logoColor=339933)
 ![Generic badge](https://img.shields.io/badge/-AWS-FFFFFF?style=flat-square&logo=Amazon-AWS&logoWidth=40&logoColor=232f3e)
 ![Generic badge](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=Docker&logoWidth=40&logoColor=2496ed)
-![Generic badge](https://img.shields.io/badge/-React_Native-FFFFFF?style=flat-square&logo=react&logoWidth=40)
 
 
 ## 👨‍🏫 **Portfolio**<br>
@@ -43,8 +41,5 @@
 
 ## ☎ **Contact**<br>
 [![Generic badge](https://img.shields.io/badge/-gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=d14836&logoWidth=40)](mailto:h19960626@gmail.com) 
-
-## 🤘 **My Github Info**<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyim0626&layout=compact&theme=buefy&hide_border=true)  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayyim0626&theme=buefy&show_icons=true&hide_title=true&hide=issues&hide_border=true) 
 
 
